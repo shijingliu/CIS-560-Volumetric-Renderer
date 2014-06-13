@@ -1,0 +1,27 @@
+DELT 1
+STEP 0.5
+XYZC 100 100 100
+BRGB 0.0 0.0 0.80
+MRGB 0.13 0.55 0.13
+FILE LastConfig.bmp
+RESO 640 480
+EYEP 0 0 200
+VDIR 0 0 -1
+UVEC 0 1 0
+FOVY 45
+LPOS 200 0 0
+LCOL 1 1 1
+
+3
+
+cloud
+25 25 25
+20
+
+pyroclastic
+50 50 50
+5
+
+cloud
+75 75 75
+5
