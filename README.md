@@ -1,4 +1,3 @@
 CIS-560
 =======
-
-This folder includes volumetric renderer
+I implemented this project using Perlin noise and volumetric renderer to create different forms of cloud and pyroclastic. 
